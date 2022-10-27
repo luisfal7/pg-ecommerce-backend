@@ -5,18 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon -L"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbcomas/BACK-END_PG.git"
+    "url": "git+https://github.com/luisfal7/BACK-END_PG.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jbcomas/BACK-END_PG/issues"
+    "url": "https://github.com/luisfal7/BACK-END_PG/issues"
   },
-  "homepage": "https://github.com/jbcomas/BACK-END_PG#readme",
+  "homepage": "https://github.com/luisfal7/BACK-END_PG#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "chalk": "^4.1.2",
